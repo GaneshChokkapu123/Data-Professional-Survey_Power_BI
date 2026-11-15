@@ -5,7 +5,7 @@ Data analysis and interactive dashboard development using Microsoft Power BI.
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+![Power BI Dashboard](dashboard.png)
 
 ## Tools Used
 - Microsoft Power BI
@@ -14,9 +14,10 @@ Data analysis and interactive dashboard development using Microsoft Power BI.
 - Excel
 
 ## Project Files
-- `Dashboard/final.pbix` – Power BI dashboard
+
 - `Project.xlsx` – Survey dataset
-- `Screenshots/dashboard.png` – Dashboard screenshot
+- `final.pbix` – Power BI dashboard
+- `dashboard.png` – Dashboard screenshot
 
 ## Project Overview
 Analyzed survey responses from data professionals to understand
